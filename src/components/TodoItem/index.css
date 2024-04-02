@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+}
+.btn {
+  border: 2px solid pink;
+  padding: 10px;
+}
+.heading {
+  font-size: 25px;
+  font-weight: 600;
+}
